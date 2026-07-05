@@ -63,7 +63,7 @@ export default function OffersList() {
             <a href={TG_CHANNEL} target="_blank" rel="noopener">Telegram</a>
           </div>
           <p style={{ marginTop: 16 }}>
-            © 2026 — Заработай Сейчас. ИП Евдокимов Артем Алексеевич ИНН 590428520767.
+            © 2026 — Заработай Сейчас. ООО ОРИОН ИНН 7720951034, ООО АТЛАС ЛЮКС 9727100734
           </p>
         </div>
       </footer>
