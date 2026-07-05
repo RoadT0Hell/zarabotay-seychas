@@ -1,5 +1,5 @@
 export default function Analytics() {
-  const YM_ID = 123456
+  const YM_ID = 110425294
   const GA_ID = ''
 
   return (
